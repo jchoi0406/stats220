@@ -9,5 +9,5 @@
 ### What is a meme?
 **Memes** are funny images/videos that are uploaded to the internet.
 Below are two examples of memes
-1. ![Meme1](https://i.pinimg.com/236x/d9/42/66/d94266793cf8cb2220810979e0ae926f.jpg)
-2. ![Meme2](https://i.redd.it/nji5udm38s881.jpg)
+1. [Meme1](https://i.pinimg.com/236x/d9/42/66/d94266793cf8cb2220810979e0ae926f.jpg)
+2. [Meme2](https://i.redd.it/nji5udm38s881.jpg)
